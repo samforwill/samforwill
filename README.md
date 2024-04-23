@@ -1,4 +1,4 @@
-# Hi There! Welcome to my politics projects GitHub.
+# Hi There! Welcome to my GitHub.
 
 ![Sam](https://github.com/samforwill/samforwill/blob/main/United%20Nations.jpg)
 
