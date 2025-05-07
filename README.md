@@ -4,7 +4,9 @@
 
 ## About Me
 
-I grew up in a family deeply rooted in North Carolina Republican politics— my grandfather served in the state legislature and my mother has represented our district's congressional representative my entire life. When I came out at 14, I found my calling in the Democratic Party, making me the odd one out in the family. This experience ignited my commitment to progressive policy, initially in immigration advocacy where I helped thousands of immigrants become naturalized U.S. citizens, and later as an investigator for the federal government. My passion for making a broader impact in the political realm led me to dive headfirst into data science. Today, I am dedicated to using these skills to promote progressive policies and strategic campaign decisions, leveraging my unique insights into rural conservative politics.
+I use data to support progressive campaigns and civic infrastructure. My work includes voter behavior modeling, precinct-level mapping, and demographic targeting using Python, SQL, and GIS. 
+
+Based in Queens, always chasing better bike lanes.
 
 ## Take a look at some of my recent projects:
 
