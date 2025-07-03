@@ -10,7 +10,6 @@ I use data to support progressive campaigns and civic infrastructure. My work in
 
 Based in Queens, always chasing better bike lanes.
 
-## Take a look at some of my recent projects:
 
 ### [Party Support Model](https://github.com/samforwill/District-Insights)
 Developed for the newly redistricted Congressional Districts following the 2020 Census, this model leverages the Census Bureau’s 2021 American Community Survey data to predict Partisan Voter Index (PVI) scores with high accuracy for all US congressional districts. The accompanying [Streamlit app](https://2022midterms.streamlit.app) visualizes key demographic influences on PVI scores and simulates electoral outcomes based on different turnout scenarios.
