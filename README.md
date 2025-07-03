@@ -1,6 +1,8 @@
 # Hi There! Welcome to my GitHub.
 
-![Sam](https://github.com/samforwill/samforwill/blob/main/United%20Nations.jpg)
+## [Visit My Portfolio Page](https://samforwill.github.io)
+*Take a look at my Portfolio Page. Explore interactive dashboards and step-by-step project walkthroughs. I also put together some smaller projects that don't have their own repos. Plus, a little about me.*
+
 
 ## About Me
 
@@ -21,4 +23,3 @@ Employing demographic-based modeling, this project assesses the partisan leaning
 
 ---
 
-Through these projects, I've honed my abilities to manipulate large datasets, develop predictive models, and present complex insights in accessible formats. My goal is to continue exploring how data science can be leveraged to enhance democratic engagement and inform better political decision-making to win elections.
