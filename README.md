@@ -1,7 +1,7 @@
 # Hi There! Welcome to my GitHub.
 
 # [Visit My Portfolio Page](https://samforwill.github.io)
-### Take a look at my Portfolio Page. Explore interactive dashboards and step-by-step project walkthroughs. I also put together some smaller projects that don't have their own repos. Plus, a little about me.*
+### Take a look at my Portfolio Page. Explore interactive dashboards and step-by-step project walkthroughs. I also put together some smaller projects that don't have their own repos. Plus, a little about me.
 
 
 ## About Me
